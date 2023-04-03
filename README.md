@@ -9,7 +9,7 @@ To use the Bulk Directory Deletion Tool, clone the repository and navigate to th
 
 ## Usage
 
-To use the tool, run the `bulk_dir_deletion.py` script with Python:
+To use the tool, run the `bulkRemoveFiles.py` script with Python:
 
 
 The script will prompt you to enter the string that your folders start with:
